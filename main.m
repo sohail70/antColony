@@ -39,8 +39,6 @@ nAnt = 10;
 alpha = 1;
 beta = 0;
 
-
-
 rho = 0.2;
 Q = .1;
 tau0 =10*Q/(sum(g.Edges.Weight)/size(g.Nodes,1)); 
